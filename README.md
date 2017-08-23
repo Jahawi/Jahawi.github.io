@@ -1,5 +1,3 @@
-# Jahawi.github.io
-
 # Project author
 Fadhili odewo
 
