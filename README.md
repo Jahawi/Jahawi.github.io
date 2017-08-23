@@ -1,14 +1,12 @@
 # Jahawi.github.io
 
-#Project author
+# Project author
 Fadhili odewo
 
-#Description
+# Description
 This was an invention of an example of a portfolio landing page through knowlegde of html and css.
 
-#Tech/framework used
+# Tech/framework used
 This ip has been created from Atom editor.
 It contains bootstrap and css.
-
-
 
